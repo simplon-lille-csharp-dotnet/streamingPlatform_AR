@@ -4,7 +4,7 @@
 ### Si vous disposez de SSMS(Microsoft Server Managment Studio):
 -Ouvrir votre logiciel
 -clic-droit sur Databases> import Data-tier Application
--cliquer next > browse pour séléctionner le bon fichier > next > choisir du nom et de l'emplacement > cliquer sur finish
+-cliquer next > browse pour sélectionner le fichier bacpac du dossier 001 - fichiers bacpac > next > choisir du nom et de l'emplacement > cliquer sur finish
 
 ### Sans SSMS
 -Créez votre base de données
