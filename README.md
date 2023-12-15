@@ -3,7 +3,7 @@
 ## Si vous disposez de SSMS(Microsoft Server Managment Studio):
 -Ouvrir votre logiciel
 -clic-droit sur Databases> import Data-tier Application
--cliquer next > browse pour séléctionner le bon fichier > next > choixi du nom et de l'emplacement > cliquer sur finish
+-cliquer next > browse pour séléctionner le bon fichier > next > choisir du nom et de l'emplacement > cliquer sur finish
 
 ## Sans SSMS
 Recherche de solution en cours
