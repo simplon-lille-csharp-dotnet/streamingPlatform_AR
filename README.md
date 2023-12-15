@@ -6,7 +6,9 @@
 -cliquer next > browse pour séléctionner le bon fichier > next > choisir du nom et de l'emplacement > cliquer sur finish
 
 ## Sans SSMS
-Recherche de solution en cours
+-Créez votre base de données
+-Chargez le fichier scriptStreamingPlatform.sql
+-Patientez jusqu'à que le script soit chargé
 
 # Réaliser des opération sur la base de données
 
