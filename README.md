@@ -8,13 +8,17 @@
 
 ### Sans SSMS
 -Créez votre base de données
--Chargez le sql du fichier scriptStreamingPlatform.sql
--Pour ajouter les données, charger le sql du fichier dataStreamingPlatform.sql
+-Chargez le sql du fichier scriptStreamingPlatform.sql du dossier 003 - script sql
+-Pour ajouter les données, charger le sql du fichier dataStreamingPlatform.sql du dossier 004 - données des tables sql
 
-## Réaliser des opération sur la base de données dans SSMS
+## Réaliser des opération sur la base de données
 
+### Si vous avez SSMS
 -clic sur la base de donnée de la plateforme de streaming
 -cliquer dans le menu du haut sur new query
+
+### Autrement
+Entrez le code sql là où vous l'ajoutez habituellement
 
 ### Afficher les films du plus récent au plus ancien
 SELECT title, release_year FROM Movie
